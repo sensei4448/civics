@@ -93,6 +93,10 @@ Finland's court system is divided by region and by competence of the courts.
 The Eurpoean countries that have taken Euro as their official currency.
 ### European Union
 A political and economic union of 27 countries.
+### Freedom of movement
+As EU citizens, all nationals of the Member States of the European Union have the
+right to move freely within the European Union and to enter and reside in any EU
+Member State.
 ### Schengen Mobility
 European states that have abolished passports and other types of control at their mutual borders.
 ### Brexit ("British exit")
