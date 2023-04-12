@@ -88,3 +88,22 @@ The President **approves the laws passed by Parliament and the state budget**. T
 The police have the right to impose fines. Most of the sentences are imposed as fines without a court decision.
 Finland's court system is divided by region and by competence of the courts.
 
+## 3.8 THE EU
+### Eurozone
+The Eurpoean countries that have taken Euro as their official currency.
+### European Union
+A political and economic union of 27 countries.
+### Schengen Mobility
+European states that have abolished passports and other types of control at their mutual borders.
+### Brexit
+Brexit was when Britain left the EU.
+### Euroscepticism
+A political position involving the criticism of the EU.
+### governmental institutions of the EU
+- The **European Parliament** makes laws. The voters of EU countries elect its members.
+- **The Council of the European Union** Is the Eu's main decision making body. It is made up of representatives of the governments of the member countries.
+- **The European Commission** puts EU policies into action.
+- **The Court of Justice** holds trials.
+- **The Court of Auditors** makes sure that the EU's money is managed correctly.
+
+## The 4 freedoms of the EU
