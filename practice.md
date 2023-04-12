@@ -1,1 +1,4 @@
 - Four fundamental freedoms in the EU?
+- The goverment decides and enacts legislations and state budget.
+- What is the EU? What do you think has been the greatest challenge the EU has faced?
+- What are the pros and cons of being a member of the EU?
