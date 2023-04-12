@@ -1,4 +1,4 @@
-# Chapter 3
+# Chapter 3 Politics
 
 ## 3.3 Elections and Voting
 ### Universal suffrage
@@ -95,7 +95,7 @@ The Eurpoean countries that have taken Euro as their official currency.
 A political and economic union of 27 countries.
 ### Schengen Mobility
 European states that have abolished passports and other types of control at their mutual borders.
-### Brexit
+### Brexit ("British exit")
 Brexit was when Britain left the EU.
 ### Euroscepticism
 A political position involving the criticism of the EU.
@@ -106,4 +106,9 @@ A political position involving the criticism of the EU.
 - **The Court of Justice** holds trials.
 - **The Court of Auditors** makes sure that the EU's money is managed correctly.
 
-## The 4 freedoms of the EU
+### The 4 freedoms of the EU
+goods, services, capital and persons.
+
+### The greatest challenge the EU has faced?
+The 2008 financial crash, covid, Brexit
+More details
