@@ -1,1 +1,1 @@
-# Go to Practice file.
+# Go to politics or economics file.
